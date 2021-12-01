@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.sf.jopt.simple" type="repository">
+    <properties maven-id="net.sf.jopt-simple:jopt-simple:5.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jopt-simple/jopt-simple/5.0.2/jopt-simple-5.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
